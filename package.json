@@ -1,0 +1,37 @@
+{
+  "name": "@writetome51/paginator-service",
+  "version": "1.0.0",
+  "description": "An injectable Angular 2+ service for paginating an array",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/paginator-service.git"
+  },
+  "keywords": [
+    "paginator",
+    "pagination",
+    "typescript",
+    "class",
+    "angular",
+    "service"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/paginator-service/issues"
+  },
+  "homepage": "https://github.com/writetome51/paginator-service#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1",
+    "@writetome51/arrays-match": "~1.0.4",
+    "@writetome51/get-countup-countdown": "~1.0.1"
+  },
+  "dependencies": {
+    "@writetome51/app-paginator": "~2.0.0",
+    "@angular/core": ">=5.2.8"
+  }
+}
