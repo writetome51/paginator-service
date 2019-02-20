@@ -1,7 +1,7 @@
 {
   "name": "@writetome51/paginator-service",
   "version": "1.0.0",
-  "description": "An injectable Angular 2+ service for paginating an array",
+  "description": "An injectable Angular 5+ service for paginating an array",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
